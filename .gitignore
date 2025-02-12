@@ -1,2 +1,5 @@
 # ignore weights folder
 weights/
+
+# ignore runs folder
+runs/
